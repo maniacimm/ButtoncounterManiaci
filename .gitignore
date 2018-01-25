@@ -7,7 +7,4 @@
 /build
 /captures
 .externalNativeBuild
-*.apk
-*.ap_
-*.class
-*.log
+.idea/
